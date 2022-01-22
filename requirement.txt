@@ -23,6 +23,5 @@ six
 virtualenv
 Werkzeug
 wincertstore
-© 2022 GitHub, Inc.
-Terms
+
 
