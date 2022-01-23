@@ -7,5 +7,3 @@ enableCORS = false\n\
 headless = true\n\
 \n\
 " > ~/.streamlit/config.toml
-© 2022 GitHub, Inc.
-Terms
